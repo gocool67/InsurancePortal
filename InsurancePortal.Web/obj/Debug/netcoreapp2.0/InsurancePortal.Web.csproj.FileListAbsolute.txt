@@ -1,0 +1,11 @@
+F:\Development\Projects\INSURANCE\InsurancePortal\InsurancePortal.Web\bin\Debug\netcoreapp2.0\InsurancePortal.Web.deps.json
+F:\Development\Projects\INSURANCE\InsurancePortal\InsurancePortal.Web\bin\Debug\netcoreapp2.0\InsurancePortal.Web.runtimeconfig.json
+F:\Development\Projects\INSURANCE\InsurancePortal\InsurancePortal.Web\bin\Debug\netcoreapp2.0\InsurancePortal.Web.runtimeconfig.dev.json
+F:\Development\Projects\INSURANCE\InsurancePortal\InsurancePortal.Web\bin\Debug\netcoreapp2.0\InsurancePortal.Web.dll
+F:\Development\Projects\INSURANCE\InsurancePortal\InsurancePortal.Web\bin\Debug\netcoreapp2.0\InsurancePortal.Web.pdb
+F:\Development\Projects\INSURANCE\InsurancePortal\InsurancePortal.Web\obj\Debug\netcoreapp2.0\InsurancePortal.Web.csprojResolveAssemblyReference.cache
+F:\Development\Projects\INSURANCE\InsurancePortal\InsurancePortal.Web\obj\Debug\netcoreapp2.0\InsurancePortal.Web.csproj.CoreCompileInputs.cache
+F:\Development\Projects\INSURANCE\InsurancePortal\InsurancePortal.Web\obj\Debug\netcoreapp2.0\InsurancePortal.Web.AssemblyInfoInputs.cache
+F:\Development\Projects\INSURANCE\InsurancePortal\InsurancePortal.Web\obj\Debug\netcoreapp2.0\InsurancePortal.Web.AssemblyInfo.cs
+F:\Development\Projects\INSURANCE\InsurancePortal\InsurancePortal.Web\obj\Debug\netcoreapp2.0\InsurancePortal.Web.dll
+F:\Development\Projects\INSURANCE\InsurancePortal\InsurancePortal.Web\obj\Debug\netcoreapp2.0\InsurancePortal.Web.pdb
